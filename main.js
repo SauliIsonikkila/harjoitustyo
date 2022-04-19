@@ -1,4 +1,4 @@
 function aja() {
-    var nimi="Milla";
+    let nimi="Milla Magia";
     console.log("Hei!" + nimi);
 }
